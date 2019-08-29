@@ -1,0 +1,6 @@
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php70” package as the default “PHP” programming language.
+
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
+# php -- END cPanel-generated handler, do not edit
